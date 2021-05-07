@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I like learning new skills.*
+
+*I also like picking up new **hobbies** such as drawing, coding, origami, etc.*
